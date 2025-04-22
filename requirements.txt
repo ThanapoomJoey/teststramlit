@@ -1,0 +1,4 @@
+streamlit
+pandas
+great_expectations==0.15.50
+matplotlib
